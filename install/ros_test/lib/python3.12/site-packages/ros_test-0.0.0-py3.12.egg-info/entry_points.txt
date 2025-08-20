@@ -1,0 +1,2 @@
+[console_scripts]
+hello_node = ros_test.hello_ros:main
