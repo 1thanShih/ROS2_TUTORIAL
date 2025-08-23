@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing ros_test.egg-info/PKG-INFO
+writing dependency_links to ros_test.egg-info/dependency_links.txt
+writing entry points to ros_test.egg-info/entry_points.txt
+writing requirements to ros_test.egg-info/requires.txt
+writing top-level names to ros_test.egg-info/top_level.txt
+reading manifest file 'ros_test.egg-info/SOURCES.txt'
+writing manifest file 'ros_test.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros-test.egg-link (link to .)
+Installing draw_circle script to /home/ethan/ros_test/install/ros_test/lib/ros_test
+Installing hello_node script to /home/ethan/ros_test/install/ros_test/lib/ros_test
+
+Installed /home/ethan/ros_test/build/ros_test
+running symlink_data
+symbolically linking /home/ethan/ros_test/build/ros_test/resource/ros_test -> /home/ethan/ros_test/install/ros_test/share/ament_index/resource_index/packages
+symbolically linking /home/ethan/ros_test/build/ros_test/package.xml -> /home/ethan/ros_test/install/ros_test/share/ros_test

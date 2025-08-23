@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ethan/ros_test/build/ros_test",
+        "/home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages",
+        "/home/ethan/Desktop/ros2_ws/install/tutorial/lib/python3.12/site-packages",
+        "/opt/ros/rolling/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ethan/ros_test/build/ros_test",
+        "/home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages",
+        "/home/ethan/Desktop/ros2_ws/install/tutorial/lib/python3.12/site-packages",
+        "/opt/ros/rolling/lib/python3.12/site-packages"
+    ]
+}

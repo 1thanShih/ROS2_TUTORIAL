@@ -1,0 +1,30 @@
+running develop
+Removing /home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros-test.egg-link (link to .)
+running egg_info
+writing ../../build/ros_test/ros_test.egg-info/PKG-INFO
+writing dependency_links to ../../build/ros_test/ros_test.egg-info/dependency_links.txt
+writing entry points to ../../build/ros_test/ros_test.egg-info/entry_points.txt
+writing requirements to ../../build/ros_test/ros_test.egg-info/requires.txt
+writing top-level names to ../../build/ros_test/ros_test.egg-info/top_level.txt
+reading manifest file '../../build/ros_test/ros_test.egg-info/SOURCES.txt'
+writing manifest file '../../build/ros_test/ros_test.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+creating /home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros_test
+copying /home/ethan/ros_test/build/ros_test/build/lib/ros_test/draw_circle.py -> /home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros_test
+copying /home/ethan/ros_test/build/ros_test/build/lib/ros_test/__init__.py -> /home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros_test
+copying /home/ethan/ros_test/build/ros_test/build/lib/ros_test/hello_ros.py -> /home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros_test
+byte-compiling /home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros_test/draw_circle.py to draw_circle.cpython-312.pyc
+byte-compiling /home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros_test/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros_test/hello_ros.py to hello_ros.cpython-312.pyc
+running install_data
+copying resource/ros_test -> /home/ethan/ros_test/install/ros_test/share/ament_index/resource_index/packages
+copying package.xml -> /home/ethan/ros_test/install/ros_test/share/ros_test
+running install_egg_info
+Copying ../../build/ros_test/ros_test.egg-info to /home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros_test-0.0.0-py3.12.egg-info
+running install_scripts
+Installing draw_circle script to /home/ethan/ros_test/install/ros_test/lib/ros_test
+Installing hello_node script to /home/ethan/ros_test/install/ros_test/lib/ros_test
+writing list of installed files to '/home/ethan/ros_test/build/ros_test/install.log'

@@ -7,7 +7,9 @@
   <maintainer email="smartshithan1620.en12@nycu.edu.tw">Ethan_Shih</maintainer>
   <license>TODO: License declaration</license>
 
-  <depend>rcply</depend>
+  <depend>rclpy</depend>
+  <depend>geometry_msgs</depend>
+  <depend>turtlesim</depend>
 
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>

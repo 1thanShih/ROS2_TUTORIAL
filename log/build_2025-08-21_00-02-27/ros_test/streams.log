@@ -1,0 +1,29 @@
+[0.675s] Invoking command in '/home/ethan/ros_test/src/ros_test': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ethan/ros_test/build/ros_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros_test build --build-base /home/ethan/ros_test/build/ros_test/build install --record /home/ethan/ros_test/build/ros_test/install.log --single-version-externally-managed install_data
+[0.856s] running egg_info
+[0.868s] writing ../../build/ros_test/ros_test.egg-info/PKG-INFO
+[0.868s] writing dependency_links to ../../build/ros_test/ros_test.egg-info/dependency_links.txt
+[0.868s] writing entry points to ../../build/ros_test/ros_test.egg-info/entry_points.txt
+[0.868s] writing requirements to ../../build/ros_test/ros_test.egg-info/requires.txt
+[0.868s] writing top-level names to ../../build/ros_test/ros_test.egg-info/top_level.txt
+[0.892s] reading manifest file '../../build/ros_test/ros_test.egg-info/SOURCES.txt'
+[0.893s] writing manifest file '../../build/ros_test/ros_test.egg-info/SOURCES.txt'
+[0.893s] running build
+[0.893s] running build_py
+[0.893s] copying ros_test/draw_circle.py -> /home/ethan/ros_test/build/ros_test/build/lib/ros_test
+[0.893s] copying ros_test/hello_ros.py -> /home/ethan/ros_test/build/ros_test/build/lib/ros_test
+[0.893s] running install
+[0.898s] running install_lib
+[0.911s] copying /home/ethan/ros_test/build/ros_test/build/lib/ros_test/draw_circle.py -> /home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros_test
+[0.911s] copying /home/ethan/ros_test/build/ros_test/build/lib/ros_test/hello_ros.py -> /home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros_test
+[0.912s] byte-compiling /home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros_test/draw_circle.py to draw_circle.cpython-312.pyc
+[0.912s] byte-compiling /home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros_test/hello_ros.py to hello_ros.cpython-312.pyc
+[0.912s] running install_data
+[0.913s] copying package.xml -> /home/ethan/ros_test/install/ros_test/share/ros_test
+[0.913s] running install_egg_info
+[0.925s] removing '/home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros_test-0.0.0-py3.12.egg-info' (and everything under it)
+[0.925s] Copying ../../build/ros_test/ros_test.egg-info to /home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros_test-0.0.0-py3.12.egg-info
+[0.926s] running install_scripts
+[1.007s] Installing draw_circle script to /home/ethan/ros_test/install/ros_test/lib/ros_test
+[1.009s] Installing hello_node script to /home/ethan/ros_test/install/ros_test/lib/ros_test
+[1.009s] writing list of installed files to '/home/ethan/ros_test/build/ros_test/install.log'
+[1.034s] Invoked command in '/home/ethan/ros_test/src/ros_test' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ethan/ros_test/build/ros_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros_test build --build-base /home/ethan/ros_test/build/ros_test/build install --record /home/ethan/ros_test/build/ros_test/install.log --single-version-externally-managed install_data

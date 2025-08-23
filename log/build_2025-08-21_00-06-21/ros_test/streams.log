@@ -1,0 +1,20 @@
+[0.517s] Invoking command in '/home/ethan/ros_test/build/ros_test': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ethan/ros_test/build/ros_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ethan/ros_test/build/ros_test/build --no-deps symlink_data --force
+[0.729s] running develop
+[0.839s] running egg_info
+[0.850s] writing ros_test.egg-info/PKG-INFO
+[0.850s] writing dependency_links to ros_test.egg-info/dependency_links.txt
+[0.850s] writing entry points to ros_test.egg-info/entry_points.txt
+[0.850s] writing requirements to ros_test.egg-info/requires.txt
+[0.850s] writing top-level names to ros_test.egg-info/top_level.txt
+[0.872s] reading manifest file 'ros_test.egg-info/SOURCES.txt'
+[0.872s] writing manifest file 'ros_test.egg-info/SOURCES.txt'
+[0.883s] running build_ext
+[0.883s] Creating /home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros-test.egg-link (link to .)
+[0.884s] Installing draw_circle script to /home/ethan/ros_test/install/ros_test/lib/ros_test
+[0.884s] Installing hello_node script to /home/ethan/ros_test/install/ros_test/lib/ros_test
+[0.884s] 
+[0.884s] Installed /home/ethan/ros_test/build/ros_test
+[0.884s] running symlink_data
+[0.884s] symbolically linking /home/ethan/ros_test/build/ros_test/resource/ros_test -> /home/ethan/ros_test/install/ros_test/share/ament_index/resource_index/packages
+[0.884s] symbolically linking /home/ethan/ros_test/build/ros_test/package.xml -> /home/ethan/ros_test/install/ros_test/share/ros_test
+[0.907s] Invoked command in '/home/ethan/ros_test/build/ros_test' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ethan/ros_test/build/ros_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ethan/ros_test/build/ros_test/build --no-deps symlink_data --force
