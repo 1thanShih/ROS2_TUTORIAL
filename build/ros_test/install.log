@@ -1,7 +1,9 @@
 /home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros_test/draw_circle.py
+/home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros_test/pose_sub.py
 /home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros_test/__init__.py
 /home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros_test/hello_ros.py
 /home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros_test/__pycache__/draw_circle.cpython-312.pyc
+/home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros_test/__pycache__/pose_sub.cpython-312.pyc
 /home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros_test/__pycache__/__init__.cpython-312.pyc
 /home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros_test/__pycache__/hello_ros.cpython-312.pyc
 /home/ethan/ros_test/install/ros_test/share/ament_index/resource_index/packages/ros_test
@@ -15,3 +17,4 @@
 /home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros_test-0.0.0-py3.12.egg-info/dependency_links.txt
 /home/ethan/ros_test/install/ros_test/lib/ros_test/draw_circle
 /home/ethan/ros_test/install/ros_test/lib/ros_test/hello_node
+/home/ethan/ros_test/install/ros_test/lib/ros_test/pose_sub

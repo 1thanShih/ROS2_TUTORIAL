@@ -1,0 +1,27 @@
+[0.953s] Invoking command in '/home/ethan/ros_test/src/ros_test': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ethan/ros_test/build/ros_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros_test build --build-base /home/ethan/ros_test/build/ros_test/build install --record /home/ethan/ros_test/build/ros_test/install.log --single-version-externally-managed install_data
+[1.285s] running egg_info
+[1.304s] writing ../../build/ros_test/ros_test.egg-info/PKG-INFO
+[1.304s] writing dependency_links to ../../build/ros_test/ros_test.egg-info/dependency_links.txt
+[1.304s] writing entry points to ../../build/ros_test/ros_test.egg-info/entry_points.txt
+[1.305s] writing requirements to ../../build/ros_test/ros_test.egg-info/requires.txt
+[1.305s] writing top-level names to ../../build/ros_test/ros_test.egg-info/top_level.txt
+[1.346s] reading manifest file '../../build/ros_test/ros_test.egg-info/SOURCES.txt'
+[1.347s] writing manifest file '../../build/ros_test/ros_test.egg-info/SOURCES.txt'
+[1.347s] running build
+[1.347s] running build_py
+[1.347s] copying ros_test/pose_sub.py -> /home/ethan/ros_test/build/ros_test/build/lib/ros_test
+[1.347s] running install
+[1.355s] running install_lib
+[1.374s] copying /home/ethan/ros_test/build/ros_test/build/lib/ros_test/pose_sub.py -> /home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros_test
+[1.375s] byte-compiling /home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros_test/pose_sub.py to pose_sub.cpython-312.pyc
+[1.376s] running install_data
+[1.376s] copying package.xml -> /home/ethan/ros_test/install/ros_test/share/ros_test
+[1.376s] running install_egg_info
+[1.397s] removing '/home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros_test-0.0.0-py3.12.egg-info' (and everything under it)
+[1.397s] Copying ../../build/ros_test/ros_test.egg-info to /home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages/ros_test-0.0.0-py3.12.egg-info
+[1.398s] running install_scripts
+[1.535s] Installing draw_circle script to /home/ethan/ros_test/install/ros_test/lib/ros_test
+[1.535s] Installing hello_node script to /home/ethan/ros_test/install/ros_test/lib/ros_test
+[1.536s] Installing pose_sub script to /home/ethan/ros_test/install/ros_test/lib/ros_test
+[1.536s] writing list of installed files to '/home/ethan/ros_test/build/ros_test/install.log'
+[1.575s] Invoked command in '/home/ethan/ros_test/src/ros_test' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ethan/ros_test/build/ros_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ethan/ros_test/install/ros_test/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros_test build --build-base /home/ethan/ros_test/build/ros_test/build install --record /home/ethan/ros_test/build/ros_test/install.log --single-version-externally-managed install_data

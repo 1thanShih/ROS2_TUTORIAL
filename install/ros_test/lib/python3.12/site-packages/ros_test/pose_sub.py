@@ -12,7 +12,6 @@ class Pose_sub(Node):
     def pose_callback(self, msg: Pose):
         self.get_logger().info(str(msg))
 
-
 def main(args=None):
     rclpy.init(args=args)
     node = Pose_sub()

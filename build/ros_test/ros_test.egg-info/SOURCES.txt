@@ -12,6 +12,7 @@ resource/ros_test
 ros_test/__init__.py
 ros_test/draw_circle.py
 ros_test/hello_ros.py
+ros_test/pose_sub.py
 test/test_copyright.py
 test/test_flake8.py
 test/test_pep257.py
