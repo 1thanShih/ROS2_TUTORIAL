@@ -26,6 +26,7 @@ setup(
         'console_scripts': [
             'draw_circle = ros_test.draw_circle:main',
             'hello_node = ros_test.hello_ros:main',
+            'pose_sub = ros_test.pose_sub:main',
        ],
     },
 )
